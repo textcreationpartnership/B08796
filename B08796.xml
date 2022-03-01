@@ -1,0 +1,1321 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A collection of choice books in English and Latin containing divinity, philosophy and physick with several other choice mathematical books to be sold by way of auction, or, who bids most in the city of Exon ... begining exact at two of the clock in the afternoon provided there are fourteen buyers do appear.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 60 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08796</idno>
+            <idno type="STC">Wing C5119A</idno>
+            <idno type="STC">ESTC R174034</idno>
+            <idno type="EEBO-CITATION">61296943</idno>
+            <idno type="OCLC">ocm 61296943</idno>
+            <idno type="VID">180514</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08796)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180514)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2832:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A collection of choice books in English and Latin containing divinity, philosophy and physick with several other choice mathematical books to be sold by way of auction, or, who bids most in the city of Exon ... begining exact at two of the clock in the afternoon provided there are fourteen buyers do appear.</title>
+               </titleStmt>
+               <extent>[2], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catalogs, Booksellers' --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180514:1" rendition="simple:additions"/>
+            <p> A COLLECTION OF Choice BOOKS, IN Engliſh and Latin: CONTAINING Divinity, Philoſophy, and Phyſick;</p>
+            <p>WITH Several other Choice Mathematical BOOKS, To be Sold by way of AUCTION, Or, Who bids moſt, IN THE City of EXON, On <gap reason="illegible: missing" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <gap reason="illegible: missing" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> day of <hi>April</hi> next enſuing, At the <gap reason="illegible: missing" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Beginning exact at two of the Clock in the Afternoon, provided there are fourteen Buyers do appear.</p>
+            <p>All Perſons who pleaſe to attend ſhall be ſure of all poſſible Satisfaction, where <hi>Cata<g ref="char:EOLhyphen"/>logues</hi> will be delivered Gratis: As alſo at the particular Coffee-Houſes, and at <hi>Walter Dight</hi>'s Shop, Bookſeller, againſt the <hi>Guild-Hall, Exon.</hi>
+            </p>
+         </div>
+         <div type="notice">
+            <pb facs="tcp:180514:2"/>
+            <head>The Manner for SALE.</head>
+            <p n="1">I. THat he who bids moſt is the Buyer, and if any Difference do ariſe that the Company cannot decide, the Book ſhall im<g ref="char:EOLhyphen"/>mediately be expoſed to Sale again. And for ſatisfaction to all Per<g ref="char:EOLhyphen"/>ſons, it's intended the Sale to begin at Number 1 in the <hi>Folioes,</hi> con<g ref="char:EOLhyphen"/>tinuing to No 20, thence to N<hi rend="sup">o</hi> 1 in the <hi>Quartoes,</hi> continuing alſo to N<hi rend="sup">o</hi> 20, and thence to N<hi rend="sup">o</hi> 1 in the 8<hi>tavoes,</hi> Selling to N<hi rend="sup">o</hi> 30, from thence again to the <hi>Folioes;</hi> continuing this Method till all are Sold.</p>
+            <p n="2">II. That all Books in this Catalogue not other ways expreſt are perfect for ought we know, but if it appear to be otherwiſe before the Books are carried off, the Buyer ſhall have his Choice of taking or leaving.</p>
+            <p n="3">III. The Money for the Book or Books Bought, is to be Paid by the Buyer at the Auction Room, either preſently, or in Three days after the Auction is over, where Attendance ſhall be given from 9 to 12, and from 2 to 5 in the Afternoon; and the Book or Books ſhall be delivered.</p>
+            <p n="4">IV. The Books ſhall be expoſed to View Three days before the Auction begins, from 9 to 12, and from 3 to 5 in the Afternoon.</p>
+         </div>
+      </front>
+      <body>
+         <div type="catalogue">
+            <pb n="1" facs="tcp:180514:2"/>
+            <head>A COLLECTION OF Choice BOOKS, IN <hi>Engliſh and Lattin, &amp;c.</hi>
+            </head>
+            <div type="part">
+               <head>BOOKS in FOLIO.</head>
+               <list>
+                  <item>1 <hi>ARiſtotles</hi> Works Gr. and Lat. <hi>Paris</hi> Edit. on Royal Paper. 2 Vol.</item>
+                  <item>2 <hi>Auguſt. Marlorat.</hi> On the new Teſtament, in 2 Vol.</item>
+                  <item>3 <hi>Minſher</hi>'s Guide; or a Dictionary for the learning 9 ſeveral Lang.</item>
+                  <item>4 Bp. <hi>Andrew</hi>'s 96 Sermons Preached on publick occaſions.</item>
+                  <item>5 St. <hi>Bernards</hi> works the largeſt and beſt Edition.</item>
+                  <item>6 <hi>Hugo</hi> de ſancte victorie opera omnia.</item>
+                  <item>7 Aſſemblies Annotations 2 Vol.</item>
+                  <item>8 Alexandri Alenſis Angliae ſumme Theologiae 2 Vol.</item>
+                  <item>9 Quirini Comment. in proverbia Solamonis.</item>
+                  <item>10 <hi>Leigh</hi>'s Critica Sacra.</item>
+                  <item>11 Gregori Magni Opera.</item>
+                  <item>12 <hi>Noſtrodam</hi>'s Propheſies, laſt Edition.</item>
+                  <item>13 <hi>Cleopatra,</hi> Old.</item>
+                  <item>14 <hi>Piſcator</hi> on the New Teſtament, Latin.</item>
+                  <item>15 Claudii Eſpanſei, Opera.</item>
+                  <item>16 <hi>Wilſon</hi>'s Chriſtian Dictionary.</item>
+                  <item>17 <hi>Leigh</hi>'s Annotations on the New Teſtament.</item>
+                  <pb n="2" facs="tcp:180514:3"/>
+                  <item>18 Alapide in prophetes minores.</item>
+                  <item>19 Alapide in omnes divi Pauli Epiſtolos.</item>
+                  <item>20 Arius Montanus Hebrew Bible, Interlined with the Greek Septugint.</item>
+                  <item>21 Sir <hi>George Sand</hi>'s Ovids Metamorphoſis in Engliſh, with the Cutts.</item>
+                  <item>22 <hi>Potanus</hi>'s Hiſtory of <hi>Bohemia,</hi> Latin.</item>
+                  <item>23 <hi>Fallopius</hi>'s Works in Phyſick and Chyrurgery compleat.</item>
+                  <item>24 <hi>Fabricius Hildanius</hi>'s Works in Phyſick and Chyrurgery compleat.</item>
+                  <item>25 Varandi Opera Medica compleat.</item>
+                  <item>26 Ruellius de natura ſtirpium.</item>
+                  <item>27 Pet. Pena, &amp; Mat. Lobeli, Adverſaria ſtirpium.</item>
+                  <item>28 Avicenna Arabum Medicorum Opera omnia.</item>
+                  <item>29 Zwelferi Animadverſiones in Pharmacopeia Auguſtana.</item>
+                  <item>30 Marius Aureliis de efficaci Medicina.</item>
+                  <item>31 Avega de arte medendi.</item>
+                  <item>32 Arnoldi Opera medici.</item>
+                  <item>33 Proſper Martian notationum opus in Hipocratem.</item>
+                  <item>34 Augenius de Febribus.</item>
+                  <item>35 Herculani (Jo.) de Febribus.</item>
+                  <item>36 Stackius de Sacraficiis Gentillium.</item>
+                  <item>37 Apolloni pergae &amp; Archimedis Opera Mathematica.</item>
+                  <item>38 Hiſtoria Sacra &amp; profana per <hi>Robert Baillium.</hi>
+                  </item>
+                  <item>39 Brigys Opera Arithmetica Logarithmica.</item>
+                  <item>40 Diophanti Alexandrini Arithmaticorum &amp; denumeris multangulis.</item>
+                  <item>41 Pappi Alexandri Mathematice Collectiones.</item>
+                  <item>42 Caroli Renoldini ars Arnalytica Mathematum, 2 Vol.</item>
+                  <item>43 Dionyſii petavii de ſphera ac ſyderibus earumque motibus.</item>
+                  <item>44 Alſtedii Enly elopedia, 2 Vol.</item>
+                  <item>45 <hi>Suidas</hi>'s Lexicon, Greek and Latin, 2 Vol. fairly Bound.</item>
+                  <item>46 Boſquieri Sermonum, 2 Vol.</item>
+                  <item>47 Pinena in Jobum, 2 Vol.</item>
+                  <item>48 Petavii Unarologion.</item>
+                  <item>49 <hi>Brigg</hi>'s &amp; <hi>Gellibrand</hi>'s Trigonometria Britannica.</item>
+                  <item>50 Saggi di naturali Eſperienſze.</item>
+                  <item>51 Claudi Franciſi milliet Curſus Mathematicus Univerſam matheſin.</item>
+                  <item>52 Tribus Tomis Complectens, 3 Vol. Lettered.</item>
+                  <item>53 Bernardus Caeſius mineralogia, ſive naturalis Phyloſophiae Theſauri.</item>
+                  <item>54 Geo. Agricole de remetallica.</item>
+                  <item>55 <hi>Lyborne</hi>'s Art of Dialing.</item>
+                  <item>56 Loricius de Theo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ic &amp; practicae legis Canonicae.</item>
+                  <item>57 Jo. Baptiſta Aſinii practica Auria ſive proceſſus Judiciarius, vel de modo procedendi in Civillibus.</item>
+                  <item>58 Gab. pennotto propugnaculum Humane libertatis Controverſiarum.</item>
+                  <pb n="3" facs="tcp:180514:3"/>
+                  <item>59 Contra Philoſoph. Aſtrolog. Judiciar. &amp; Heretic. Tuenda.</item>
+                  <item>60 <hi>P. Sendeas</hi>'s Works Engliſh.</item>
+                  <item>61 Epiphani Opera, Latin.</item>
+                  <item>62 Gerhardi loci Communes, in 4 Vol.</item>
+                  <item>63 Paraei Opera omnia, 2 Vol.</item>
+                  <item>64 Eraſuri Adagia.</item>
+                  <item>65 <hi>Perkin</hi>'s Works in 2 Vol.</item>
+                  <item>66 Langii Polyanthea.</item>
+                  <item>67 Hugovis Opera omnia in univerſum vetus &amp; Nov. Teſtament. in 5 Vol.</item>
+                  <item>68 Guillandi Coment. ſecund. Mattheum.</item>
+                  <item>69 Homeri Opera omnia, Greek and Latin.</item>
+                  <item>70 Virgilli Opera, cum notis ſervii.</item>
+                  <item>71 Ovidii Opera omnia.</item>
+                  <item>72 Horaci Opera omnia.</item>
+                  <item>73 Hiſtory of the <hi>French</hi> Maſacre.</item>
+                  <item>74 Biſhop <hi>Davinant</hi> on the <hi>Coloſſians,</hi> Latin.</item>
+                  <item>75 Bibliotheca ſancta à ſexto ſenenſis.</item>
+                  <item>76 Biſhop <hi>Davinant</hi>'s Determinations.</item>
+                  <item>77 <hi>Calepine</hi>'s Dictionary.</item>
+                  <item>78 Strabonis Opera, Greek and Latin.</item>
+                  <item>79 Theophraſti Opera, Greek and Latin, à Danl. Heinſius.</item>
+                  <item>80 <hi>Seldon</hi>'s Mare Clauſum.</item>
+                  <item>81 <hi>Fr. Suarez</hi> Metaphyſic. compleat, beſt Edition.</item>
+                  <item>82 <hi>Fr. Suarez</hi> Comment in tertium partem D. Thomae Aquinat.</item>
+                  <item>83 Firſt Part of my Lord <hi>Cook</hi>'s Inſtitutes.</item>
+                  <item>84 <hi>Fr. Suarez</hi> Tractatus Quirque, ad primum ſecunde <hi>Tho. Aquinat.</hi>
+                  </item>
+                  <item>85 <hi>Tho. Aquinat</hi> in Quat. Evang.</item>
+                  <item>86 <hi>Tho. Aquinat</hi> in Divi Pauli Epiſtolos.</item>
+                  <item>87 Athanaſii Epiſcop. Alexandri Opera.</item>
+                  <item>88 Aſſemblies Annotations, in 2 Vol.<hi>——London.</hi>
+                  </item>
+                  <item>89 Keckermanni Opera omnia, in 2 Vol.</item>
+                  <item>90 Nicholai de Cuſa Opera varia.</item>
+                  <item>91 Biſhop <hi>Davinant</hi> Comment in Epiſt. Pauli ad Colloſenſis.</item>
+                  <item>92 <hi>Samuel Clark</hi>'s Examples of Saints and Sinners.</item>
+                  <item>93 Uſheri Annales in veteris Teſtamenti.</item>
+                  <item>94 Summa Colloquii Jo. Rainoldi, cum Johan. Harto, de capite &amp; fidei Eccle.</item>
+                  <item>95 <hi>Anthony Farringdon</hi>'s Thirty Sermons.</item>
+                  <item>96 <hi>Lavater</hi>'s Comment on <hi>Judges, Heſter,</hi> and <hi>Job.</hi>
+                  </item>
+                  <item>97 <hi>Peter Marter</hi>'s Comment on the Book of <hi>Judges,</hi> Engliſh.</item>
+                  <item>98 A Table to <hi>Fitz Herbert</hi>'s Grand Abridgement of the Laws of <hi>England.</hi>
+                  </item>
+                  <item>99 <hi>Polton</hi>'s Statutes with <hi>Manly</hi>'s Continuation, in 2 Vol.</item>
+                  <item>100 <hi>Aterſoll</hi> on <hi>Philemon.</hi>
+                  </item>
+                  <pb n="4" facs="tcp:180514:4"/>
+                  <item>101 Biſhop <hi>Hall</hi>'s Meditations and Vows Divine and Moral.</item>
+                  <item>102 Biſhop <hi>Hall</hi> on the difficult Texts of Scripture.</item>
+                  <item>103 <hi>Zanchi</hi> de natura dei.</item>
+                  <item>104 <hi>Zanchi</hi> Miſcellaneorum.</item>
+                  <item>105 <hi>Zanchi</hi> Tract. Theologicorum.</item>
+                  <item>106 <hi>Zanchi</hi> in Epheſos.</item>
+                  <item>107 <hi>Zanchi</hi> Comment in <hi>Philipians, Coloſſians,</hi> and <hi>Theſſalonians.</hi>
+                  </item>
+                  <item>108 Ariaga Curſus Philoſophicus.</item>
+                  <item>109 <hi>Heylins</hi>'s Hiſtory of the Reformation.</item>
+                  <item>110 Nizolius Theſaurus Ciceronianus.</item>
+                  <item>111 Doctor <hi>Thomas Taylor</hi>'s Works.</item>
+                  <item>112 Muſculus in Geneſin.</item>
+                  <item>113 Eraſmi in Novum Teſtamentum.</item>
+                  <item>114 An <hi>Engliſh, Latin,</hi> and <hi>French</hi> Dictionary.</item>
+                  <item>115 Biſhop <hi>Nicholſon</hi> on the Creed.</item>
+                  <item>116 Tabula Analetica a Stephano Zegedino.</item>
+                  <item>117 <hi>Holland</hi>'s <hi>Roman</hi> Hiſtory.</item>
+                  <item>118 <hi>Fox</hi> in Apocalipſin.</item>
+                  <item>119 <hi>Parr</hi> on the <hi>Romans.</hi>
+                  </item>
+                  <item>120 Goran in quat Evangelium.</item>
+                  <item>121 Goran in Acta Apoſtolorum.</item>
+                  <item>122 Goran in omnes divi Pauli Epiſtolos.</item>
+                  <item>123 Doctor <hi>Purſon</hi> on the Creed.</item>
+                  <item>124 <hi>Peter Martyr</hi> on <hi>Judges,</hi> Latin.</item>
+                  <item>125 <hi>Peter Martyri</hi> Loci Communes.</item>
+                  <item>126 Urſini Tractatum Theologiae.</item>
+                  <item>127 King <hi>Charles</hi>'s Account of the Tumults in <hi>Scotland.</hi>
+                  </item>
+                  <item>128 Andraei Fricii de Moribus de Bello de Legibus &amp; Eccleſiae.</item>
+                  <item>129 Hiſtoria Titi Livi.</item>
+                  <item>130 <hi>Downham</hi>'s Guide to Godlineſs.</item>
+                  <item>131 <hi>Hooker</hi>'s Eccleſiaſtical Polity.</item>
+                  <item>132 <hi>Cartwright</hi>'s Confutation of the <hi>Rhemiſh</hi> Teſtament.</item>
+                  <item>133 Doctor <hi>Browne</hi>'s Enquiries into vulgar Errors.</item>
+                  <item>134 <hi>Cotton</hi>'s Scripture Concordance.</item>
+                  <item>135 Doctor <hi>Kendal</hi> againſt <hi>Goodwin.</hi>
+                  </item>
+                  <item>136 Biſhop <hi>Laude</hi>'s Conference with <hi>Fiſher</hi> the Jeſuit.</item>
+                  <item>137 <hi>Morton</hi>'s Catholick Appeal for Proteſtants.</item>
+                  <item>138 <hi>Burges</hi>'s Spiritual Refinings.</item>
+                  <item>139 <hi>Fotherby</hi>'s Artheomaſticks.</item>
+                  <item>140 Romance of <hi>Ariana.</hi>
+                  </item>
+                  <item>141 <hi>Newton</hi> on <hi>John.</hi>
+                  </item>
+                  <item>142 Zabarel de Concillia.</item>
+                  <pb n="5" facs="tcp:180514:4"/>
+                  <item>143 <hi>Willet</hi> on the <hi>Romans.</hi>
+                  </item>
+                  <item>144 <hi>Byfield</hi> on the <hi>Coloſſians.</hi>
+                  </item>
+                  <item>145 Doctor <hi>Robert Harris</hi>'s Works.</item>
+                  <item>146 Paſtorals of <hi>Julietta,</hi> a Romance.</item>
+                  <item>147 Couradi in omnes Prophetas.</item>
+                  <item>148 Hiſtory of <hi>Orlando Furioſo.</hi>
+                  </item>
+                  <item>149 Hiſtory of <hi>Godfrey</hi> of <hi>Bullaigne.</hi>
+                  </item>
+                  <item>150 <hi>Romant</hi> of Romance.</item>
+                  <item>151 Head Corner Stone omitted by the Builders, by <hi>Edward Bunney.</hi>
+                  </item>
+                  <item>152 Dionyſii Elementa Theologiae, in 2 Vol.</item>
+                  <item>153 Dionyſii in Prophetas minores.</item>
+                  <item>154 <hi>Muſculus</hi> on <hi>Matthew,</hi> Latin.</item>
+                  <item>155 Ambroſii Opera.</item>
+                  <item>156 Parerii Comment in Geneſin.</item>
+                  <item>157 Spangenbergii Tabulae in Evangelia &amp; Epiſtolos dominicales.</item>
+                  <item>158 Doctor <hi>Taylor</hi>'s Golden Grove, containing 28 Sunday Sermons.</item>
+                  <item>159 Lord <hi>Bacon</hi>'s Novum Arganum.</item>
+                  <item>160 Hyperi Opera.</item>
+                  <item>161 Gaſparis Taliacotii de Curtorum Chyrurgia per Inſitionem.</item>
+                  <item>162 A fair Folio Bible with the Service, Gilt Edges, <hi>Turkey.</hi>
+                  </item>
+                  <item>163 The <hi>Turkiſh</hi> Hiſtory, by <hi>Jo. Knoles.</hi>
+                  </item>
+                  <item>164 Doctor <hi>Hammond</hi>'s Annotations on the New Teſtament.</item>
+                  <item>165 <hi>Cambden</hi>'s Hiſtory of Queen <hi>Elizabeth.</hi>
+                  </item>
+                  <item>166 Sermons ſet forth by Queen <hi>Elizabeth.</hi>
+                  </item>
+                  <item>167 <hi>Trapp.</hi> Comment on the New Teſtament.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Books in</hi> QUARTO.</head>
+               <list>
+                  <item>N<hi rend="sup">o</hi> 1. 1 BIblia Sacra Junii &amp; Tremellii.</item>
+                  <item>N<hi rend="sup">o</hi> 1. 2 Zanchii de Operibus dei.</item>
+                  <item>3 Ariſtolis Opera omnia Greek and Latin, wants the Title.</item>
+                  <item>4 Tullii Opera omnia.</item>
+                  <item>5 Copen in Pſalmorum.</item>
+                  <item>6 Acta. Synod. Dordrect.</item>
+                  <item>7 Rinoldi Rom. Eccleſ. Idolotria.</item>
+                  <item>8 Lexicon Philoſophicum.</item>
+                  <item>9 <hi>Crellius</hi>'s Ceriſtian and Ariſtotelian Ethicks.</item>
+                  <item>10 <hi>Herebrood</hi>'s Philoſophia.</item>
+                  <item>11 Murſius Curſus Philoſophicus.</item>
+                  <item>12 <hi>Diodate</hi>'s Annotations on the Bible.</item>
+                  <item>13 <hi>Weemſe</hi>'s Works compleat, in 4 Vol.</item>
+                  <item>14 <hi>Cotton</hi>'s Scripture Concordance.</item>
+                  <pb n="6" facs="tcp:180514:5"/>
+                  <item>15 <hi>William Prinn</hi>'s Power of Parliaments.</item>
+                  <item>16 <hi>Biribeck</hi>'s Proteſtant Evidence.</item>
+                  <item>17 <hi>Zabarell</hi>'s Logick.</item>
+                  <item>18 <hi>Zabarell</hi> de Rebus naturalibus.</item>
+                  <item>19 Tullil Tuſculan Queſtiones.</item>
+                  <item>20 Philoſophea naturalis.</item>
+                  <item>21 Andreae Laurentii Opera Medic. &amp; Chyrurg.</item>
+                  <item>22 Veſlingius Anatomia Edit. opt.</item>
+                  <item>23 Zwelferi Pharmacopeae Auguſtana Edit. opt.</item>
+                  <item>24 Plute<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i praxis Medica.</item>
+                  <item>25 De Febribus &amp; Morbis mulierum.</item>
+                  <item>26 Quercitans Diſpenſitory, ſeu Quercitanus Redevivus.</item>
+                  <item>27 Lux Mathematica.</item>
+                  <item>28 Liber de Febribus.</item>
+                  <item>29 Schmalkalti Agoniſmata Medica mur purgenſia.</item>
+                  <item>30 Roderici à Caſtro de Univerſa muliebrum Morborum Medicina.</item>
+                  <item>31 Heighmori de Hyſterica &amp; Hypochondraica; to which is added, Dr. <hi>Goddard</hi>'s Diſcourſe of the unhappy Condition of the <hi>London</hi> Practice.</item>
+                  <item>32 Burneti (Tho.) Theſaurus Medicinae practicae.</item>
+                  <item>33 Des Cartes de Philoſophea, in 2 Vol.</item>
+                  <item>34 <hi>Idem</hi> de muſic. Compendium.</item>
+                  <item>35 Grometria à Renato des Cartes.</item>
+                  <item>36 Jacobo de billi nova, Geomatrie Clavis Algebra.</item>
+                  <item>37 Leonis Allatii de ſimeonum ſcriptis diatriba.</item>
+                  <item>38 Stephanus de Angelis acceſſionis ad ſteriometria &amp; Mechanicum.</item>
+                  <item>39 Stephani Angeli problemata Geometritia ſexiginta.</item>
+                  <item>40 Stephanus de Angelis de Infenitis parabolis.</item>
+                  <item>41 Stephanus de Angelis de ſuperficiae ungule Tractatus.</item>
+                  <item>42 Stephani de Angulis Miſcellaneum hyperbolicum &amp; parabolicum at<g ref="char:EOLhyphen"/>que de Infinitorum ſpiralium:</item>
+                  <item>43 Exercitationes Mechanicae à Alex marchetti.</item>
+                  <item>44 Jacobi Gregorii vera Circuli &amp; Hyperbolae, quadritura &amp; Geometria, pars univerſalis.</item>
+                  <item>45 Pauli Caſuti terra Machinis mota diſertationes Geometricae &amp; Me<g ref="char:EOLhyphen"/>chanicae.</item>
+                  <item>46 Wolfgangii Textoris Synopſis juris Gentium.</item>
+                  <item>47 Petri Mengoli Geometriae ſpecioſae Elementa.</item>
+                  <item>48 <hi>Blandevill</hi>'s Exerciſes.</item>
+                  <item>49 Novum Teſtamentum Syriace cum verſione Latina.</item>
+                  <item>50 Lexicon Syriacum Inductio ad Novum Teſtamentum.</item>
+                  <item>51 Lodovic. de dein Gramat. ad Ling. orientalium,</item>
+                  <pb n="7" facs="tcp:180514:5"/>
+                  <item>52 Lodovic. de dein Coment in Quat. Evangelia.</item>
+                  <item>53 <hi>Buxtorf</hi>'s <hi>Chaldea</hi> and <hi>Syriac</hi> Lexicon.</item>
+                  <item>54 Amana Friſio Cenſura vulgata verſionis Quirq lib. moſis.</item>
+                  <item>55 <hi>Abbot</hi>'s Comment on the Prophet <hi>Jonah.</hi>
+                  </item>
+                  <item>56 Voſſius Contra pelagium.</item>
+                  <item>57 <hi>Scheiblier</hi> Lib. Logic.</item>
+                  <item>58 <hi>Schieblier</hi>'s Metaphiſicks.</item>
+                  <item>59 Agricolae Inventione.</item>
+                  <item>60 <hi>Cartwright</hi>'s Harmony, &amp; Quat. Evangelia, in 3 Vol.</item>
+                  <item>61 Walaei Loci Communes, in 2 Vol.</item>
+                  <item>62 Biſhop <hi>Andrew</hi>'s Tartura Tarti.</item>
+                  <item>63 <hi>Rider</hi>'s Dictionary.</item>
+                  <item>64 Alſtedii Theologia naturalis.</item>
+                  <item>65 Alſtedii Theologia Scholaſtica.</item>
+                  <item>66 Alſtedii Precognitorum Theologicorum.</item>
+                  <item>67 Bowles (Oliveri) de paſtore Evangelico.</item>
+                  <item>68 Toleti Commentaria una cum Queſtionibus in Lib. Ariſt. de Anima</item>
+                  <item>69 <hi>Cracken Thorp</hi>'s Logick.</item>
+                  <item>70 Voeti de Anima ſeparata.</item>
+                  <item>71 Voeti Prima Philoſophia Reformata.</item>
+                  <item>72 Alphonſi Sermones in perabolas Evangelicas.</item>
+                  <item>73 Voſſi Theſes Theologicae &amp; Hiſtoricae.</item>
+                  <item>74 Daneſii Paraleponia.</item>
+                  <item>75 <hi>Smiglecius</hi>'s Logick.</item>
+                  <item>76 Hiſtoria Revolationum <hi>Ch. Kotteri, Ch. Poniatoviae, Nich. Drabicii.</hi>
+                  </item>
+                  <item>77 Miſcellaneorum Theologicorum, à <hi>Nich. Fullero.</hi>
+                  </item>
+                  <item>78 Ruvio Comment in Libros Ariſtotelis ſtageriti de ortu.</item>
+                  <item>79 Theoph. Rynaudi nova Explicatio Theologiae difficultatibus.</item>
+                  <item>80 Gambrellii Opoſitorum lib. Plauto. Terentis, Caeſar &amp; Ciceron colegit.</item>
+                  <item>81 <hi>Weemſe</hi>'s Moral and Ceremonial Law, in 2 Vol.</item>
+                  <item>82 Britanice Scriptores.</item>
+                  <item>83 Inſtitutions of a Young Noble Man, by <hi>James Cleland.</hi>
+                  </item>
+                  <item>84 Doctor <hi>Sharp</hi>'s Looking-glaſs for the Pope.</item>
+                  <item>85 Clavis Apocaleptica.</item>
+                  <item>86 <hi>Steerius</hi>'s Logick.</item>
+                  <item>87 <hi>Stirrup</hi>'s Art of Dialing.</item>
+                  <item>88 Mr. <hi>Prinn</hi> of Mans Regeneration.</item>
+                  <item>89 The Art of Gunnery.</item>
+                  <item>90 <hi>Park</hi>'s Vindication of the Creed.</item>
+                  <item>91 <hi>Barrow</hi>'s Method of Phyſick.</item>
+                  <item>92 <hi>Dike</hi>'s Deceitfulneſs of the Heart.</item>
+                  <item>93 <hi>Du Bartas</hi>'s Works.</item>
+                  <pb n="8" facs="tcp:180514:6"/>
+                  <item>94 <hi>White</hi>'s Anſwer to a Lawleſs Pamphlet.</item>
+                  <item>95 <hi>Fulbeck</hi> of the Cannon Law, wants a Title Leaf.</item>
+                  <item>96 Monſieur <hi>du Balzack</hi>'s Letters.</item>
+                  <item>97 <hi>Morney</hi> of the Chriſtian Religion.</item>
+                  <item>98 Doctor <hi>Prideaux</hi>'s Controverſarium Theologicorum.</item>
+                  <item>99 <hi>Gurnall</hi>'s Chriſtian Armour, 1ſt. 2d. and 3d. Parts, in 2 Vol.</item>
+                  <item>100 <hi>Gibbons</hi> on the Holy Scriptures.</item>
+                  <item>101 Doctor <hi>Webb</hi>'s Inſtruction to the Latin Tongue.</item>
+                  <item>102 Anſwer to Doctor <hi>Hackewell</hi>'s Apology.</item>
+                  <item>103 <hi>Maden</hi>'s Chriſtian Love to <hi>Jeruſalem.</hi>
+                  </item>
+                  <item>104 Anatomy of <hi>Armenianiſm.</hi>
+                  </item>
+                  <item>105 <hi>Bolton</hi>'s Cure of an Afflicted Conſcience.</item>
+                  <item>106 <hi>White</hi>'s Way to the Church.</item>
+                  <item>107 <hi>Norwood</hi>'s Doctrine of Triangles.</item>
+                  <item>108 Biſhop of <hi>Chicheſter</hi> of Tithes.</item>
+                  <item>109 <hi>Baxter</hi>'s Apology.</item>
+                  <item>110 <hi>Bilſon</hi> of Chriſtian Redemption.</item>
+                  <item>111 <hi>Baxter</hi>'s Confeſſion of Faith.</item>
+                  <item>112 <hi>Morton</hi>'s Encounter with <hi>Parſons</hi> the Jeſuit.</item>
+                  <item>113 <hi>Baxter</hi>'s Chriſtian Religion.</item>
+                  <item>114 Grand Sacriledge of the Church of <hi>Rome.</hi>
+                  </item>
+                  <item>115 <hi>Baxter</hi>'s Key for Catholicks.</item>
+                  <item>116 Antiquity Triumphing over Novelty.</item>
+                  <item>117 <hi>Baxter</hi> on the Sacrament.</item>
+                  <item>118 <hi>White</hi>'s Defence of the way to the true Church.</item>
+                  <item>119 <hi>Baxter</hi> of Church Government.</item>
+                  <item>120 Lectures on the 15 Pſalm.</item>
+                  <item>121 <hi>Baxter</hi> of Infant Baptiſm.</item>
+                  <item>122 Grammar School.</item>
+                  <item>123 <hi>Baxter</hi>'s Saint or Bruit.</item>
+                  <item>124 <hi>Cortes (Fardinand)</hi> his Conqueſt of the Weſt-Indies.</item>
+                  <item>125 <hi>Burges</hi> of Juſtification.</item>
+                  <item>126 <hi>Napier</hi> on the Revelations.</item>
+                  <item>127 <hi>Baxter</hi>'s Infant Baptiſm.</item>
+                  <item>128 Junii Analitica Explicatio.</item>
+                  <item>129 <hi>Yates</hi> on Hypocriſie.</item>
+                  <item>130 <hi>Nehemiah Rogers</hi> on the Parable of the loſt Goat, the loſt Sheep, and the loſt Son.</item>
+                  <item>131 Doctor <hi>Balton</hi>'s Way of Walking with God.</item>
+                  <item>132 Sacriledge ſacredly handled.</item>
+                  <item>133 <hi>Swan</hi>'s Europe ſpeculum.</item>
+                  <item>134 A Collection of the loud Miniſters Farewel Sermons.</item>
+                  <pb n="9" facs="tcp:180514:6"/>
+                  <item>135 Alvarez Inſtitutione Grammaticae.</item>
+                  <item>136 <hi>Fletcher</hi> on the Firſt Pſalm.</item>
+                  <item>137 <hi>Downham</hi> of Alms-Deeds.</item>
+                  <item>138 <hi>Bolton</hi>'s Inſtruction for an Afflicted Conſcience.</item>
+                  <item>139 <hi>Montague</hi>'s Addreſs to God.</item>
+                  <item>140 <hi>Dike</hi> on Repentance.</item>
+                  <item>141 <hi>Lever</hi>'s Tables of Intereſt.</item>
+                  <item>142 Biſhop of <hi>Lincoln</hi>'s Anſwer to a Catholick.</item>
+                  <item>143 <hi>Broughton</hi>'s Concentus Scripturae.</item>
+                  <item>144 <hi>Gataker</hi>'s ſeveral Sermons.</item>
+                  <item>145 <hi>Perkin</hi>'s Caſes of Conſcience.</item>
+                  <item>146 <hi>Hoskins</hi>'s ſeveral Sermons at <hi>Paul</hi>'s Croſs.</item>
+                  <item>147 Divine Right of the Goſpel Miniſtry.</item>
+                  <item>148 Ameſii de Conſcientiae.</item>
+                  <item>149 Doctor <hi>Taylor</hi>'s Chriſt Combat, <hi>&amp;c.</hi>
+                  </item>
+                  <item>150 Mr. <hi>White</hi> of the Sabbath.</item>
+                  <item>151 <hi>Yelverton</hi>'s Learned Sermons.</item>
+                  <item>152 <hi>Seldon</hi>'s Titles of Honour.</item>
+                  <item>153 Sir <hi>Anthony Gueveras</hi>'s Epiſtles.</item>
+                  <item>154 Mr. <hi>Dod</hi> on the Lords Prayer.</item>
+                  <item>155 <hi>Calvin</hi> on the <hi>Galatians,</hi> Engliſh.</item>
+                  <item>156 <hi>Bolton</hi>'s Cure of an afflicted Conſcience</item>
+                  <item>157 Laws and Cuſtoms of all Nations.</item>
+                  <item>158 Directory for Gods Worſhip.</item>
+                  <item>159 Biſhop <hi>Uſher</hi>'s Anſwer to a Jeſuit's Challenge.</item>
+                  <item>160 <hi>Sherlock</hi> againſt the Quakers.</item>
+               </list>
+               <list>
+                  <head>
+                     <hi>Miſcellany of ſeveral Sermons,</hi> &amp;c.</head>
+                  <item>161 Four Sermons of Mr. <hi>Hooker</hi>'s of <hi>New-England.</hi>
+                  </item>
+                  <item>162 <hi>Traver</hi>'s Supplication to King <hi>James.</hi>
+                  </item>
+                  <item>163 Two Sermons of Dr. <hi>King</hi>'s, <hi>1ſt</hi> at <hi>White-hall,</hi> the other at <hi>Hampton</hi> Court.</item>
+                  <item>164 Dr. <hi>Spencer</hi>'s Sermon at <hi>Paul</hi>'s Croſs, Gods love to his Vineyard.</item>
+                  <item>165 Salamonis Nuptiis.</item>
+                  <item>166 Dr. <hi>Berry</hi>'s Aſſize Sermon at <hi>Exeter.</hi>
+                  </item>
+                  <item>167 <hi>Clapham</hi>'s Expoſition on the Song of <hi>Solomon.</hi>
+                  </item>
+                  <item>168 Doctor <hi>King</hi> on the Lords Prayer.</item>
+                  <item>169 <hi>Goodwin</hi>'s Jewiſh Antiquities.</item>
+                  <item>170 <hi>Gurnall</hi>'s Armour, Third Part.</item>
+                  <item>171 <hi>Barthwaight</hi>'s Engliſh Gentleman.</item>
+                  <item>172 <hi>Durell</hi> of Church Government.</item>
+                  <item>173 A Relation of the Proceedings.</item>
+               </list>
+               <list>
+                  <pb n="10" facs="tcp:180514:7"/>
+                  <item>174 <hi>Goodwin</hi>'s Jewiſh and Roman Antiquities.</item>
+                  <item>175 <hi>Rogers</hi> on the 39 Articles.</item>
+                  <item>176 Doctor <hi>Burges.</hi> on Juſtification.</item>
+                  <item>177 Doctor <hi>Hackewell</hi> againſt Doctor <hi>Carrier.</hi>
+                  </item>
+                  <item>178 <hi>Burrough</hi>'s Goſpel Reconciliation.</item>
+                  <item>179 <hi>Du Mowlin</hi>'s Conference at <hi>Paris</hi> with Father <hi>Goutier</hi> the Jeſuit.</item>
+                  <item>180 <hi>Aron</hi>'s Rod Bloſſoming.</item>
+                  <item>181 Morning Exerciſes at St. <hi>Giles.</hi>
+                  </item>
+                  <item>182 <hi>White</hi>'s Way to the Church.</item>
+                  <item>183 <hi>Greenhill</hi> on the firſt and fifth Chapters of <hi>Ezekiel.</hi>
+                  </item>
+                  <item>184 <hi>Reynolds</hi> on the 110 Pſalm.</item>
+                  <item>185 <hi>Bruiſley</hi>'s true Watch.</item>
+                  <item>186 <hi>Leyborne</hi>'s Art of Dialling.</item>
+                  <item>187 <hi>Eſty</hi>'s Learned Expoſition on divers parts of Scripture.</item>
+                  <item>188 <hi>Heylin</hi> on the Sabbath.</item>
+                  <item>189 Biſhop <hi>Ely</hi>'s ſeveral Sermons on ſeveral Occaſions before K. <hi>James.</hi>
+                  </item>
+                  <item>190 <hi>Ainſworth</hi> on the Pſalms.</item>
+                  <item>191 Hiſtory of <hi>Trogus Pompeus,</hi> by <hi>Juſtin.</hi>
+                  </item>
+                  <item>192 Self-Denial and Self-Trial.</item>
+                  <item>193 <hi>Bayne</hi>'s way of Chriſtian Trial.</item>
+                  <item>194 <hi>Colling</hi>'s Vindication of Presbyterian Church-Government.</item>
+                  <item>195 <hi>Jackſon</hi> on the Attributes.</item>
+                  <item>196 An Anſwer to <hi>Heylin</hi>'s Holy Table.</item>
+                  <item>197 <hi>Elton</hi>'s Expoſition on the Ten Commandments.</item>
+               </list>
+               <list>
+                  <head>
+                     <hi>Miſcellanies,</hi> viz.</head>
+                  <item>297 <hi>Hale</hi>'s Sermon at St. <hi>Mary</hi>'s in <hi>Oxford.</hi>
+                  </item>
+                  <item>199 A Reſolution of Doubts in the Controverſie between Papiſt and Prot.</item>
+                  <item>200 Life of <hi>Galiacius Caracciolus</hi> Marqueſs of <hi>Vico.</hi>
+                  </item>
+                  <item>201 A Diſplay of the Maſs.</item>
+                  <item>202 Expoſition of the <hi>Roman</hi> Antiquities.</item>
+                  <item>203 Synopſis Antiquitatum Hebriarum.</item>
+                  <item>204 <hi>Traps</hi>'s Comentary on the <hi>Proverbs.</hi>
+                  </item>
+                  <item>205 <hi>Mornay</hi> of the true Church.</item>
+                  <item>206 <hi>Venner</hi>'s way to Long Life.</item>
+                  <item>207 <hi>Stroughton</hi>'s ſeveral Sermons.</item>
+                  <item>208 <hi>Stolham</hi> againſt the Quakers.</item>
+                  <item>209 Records of the Chancery and the Tower.</item>
+                  <item>210 Anatomy of Armenianiſm.</item>
+                  <item>211 <hi>Elian</hi>'s Roman Hiſtory.</item>
+                  <pb n="11" facs="tcp:180514:7"/>
+                  <item>212 <hi>Churleton</hi> of Regal, Epiſcopal, and Papal Juriſdiction.</item>
+                  <item>213 <hi>Heylin</hi>'s Holy Table.</item>
+                  <item>214 <hi>Dikes</hi>'s Deceitfulneſs of the Heart.</item>
+                  <item>215 <hi>Soule</hi>'s Progreſs to the Heavenly Canaan.</item>
+                  <item>216 The Heaven of Health.</item>
+                  <item>217 Buridanus Philoſoph. &amp; Ethicae.</item>
+                  <item>218 <hi>Cartwright</hi>'s Comment on the <hi>Coloſſians.</hi>
+                  </item>
+                  <item>219 Defence for the Godly Miniſtry.</item>
+                  <item>220 An Expoſition on the <hi>Revelations.</hi>
+                  </item>
+                  <item>221 <hi>Bilſon</hi> of Church-Government.</item>
+                  <item>222 <hi>Bentham</hi>'s Chriſtian Conflict.</item>
+                  <item>223 <hi>Downham</hi>'s Sum of Sacred Divinity.</item>
+                  <item>224 Dr. <hi>James</hi> of the Corruption of the Fathers.</item>
+                  <item>225 <hi>Slater</hi> on the 116 and 117 Pſalms.</item>
+                  <item>226 <hi>Du Mowlin</hi> of the Catholick Faith.</item>
+               </list>
+               <list>
+                  <head>
+                     <hi>Miſcellany of Sermons,</hi> viz.</head>
+                  <item>227 Doctor <hi>Pridean</hi>'s <hi>Epheſus</hi> Backſliding.</item>
+                  <item>228 Sir <hi>Edward Seymour</hi>'s Funeral Sermon.</item>
+                  <item>229 Doctor <hi>Kilbey</hi>'s Sermon at St <hi>Mary</hi>'s <hi>Oxford.</hi>
+                  </item>
+                  <item>230 <hi>Slater</hi>'s Aſſize Sermon at <hi>Taunton.</hi>
+                  </item>
+                  <item>231 Doctor <hi>Wickliffe</hi> on the Sacrament.</item>
+                  <item>232 <hi>Antonius de Dominis</hi>'s Italian Sermon in Engliſh.</item>
+                  <item>233 Doctor <hi>Worſhip</hi>'s Patern of Invincible Faith.</item>
+                  <item>234 Alberici de Jure &amp; Injuſticia Bellica Romanorum actio, in 2 Parts.</item>
+                  <item>235 Vinditiae Eccleſiae Anglicanae.</item>
+                  <item>236 <hi>Perkins</hi> on Chriſt Sermon in the Mount.</item>
+                  <item>237 <hi>Nehemiah Rogers</hi>'s Parable of the Sower.</item>
+                  <item>238 <hi>Balzack</hi>'s Letters.</item>
+                  <item>239 <hi>Urſins</hi>'s Catechiſm on the Sum of Chriſtian Religion.</item>
+                  <item>240 <hi>Feild</hi> of the Church.</item>
+                  <item>241 <hi>Atterſoll</hi>'s Expoſition on the 22, 23, 24, and <hi>25th.</hi> Chapters of <hi>Numb.</hi>
+                  </item>
+                  <item>242 Inſtitutionem Juris Canonici.</item>
+                  <item>243 <hi>Cornelius Agrippas</hi>'s Vanity of Arts and Sciences.</item>
+                  <item>244 <hi>Beard</hi>'s Theatre of Gods Judgments.</item>
+                  <item>245 Doctor <hi>Stoughton</hi>'s Dignity of Gods Children</item>
+                  <item>246 <hi>Job</hi>'s Piety, or the Pattern of the Perfect Man.</item>
+                  <item>247 Divine Right of Church Government, by the Aſſembly of Divines.</item>
+                  <item>248 <hi>Slater</hi>'s Key to the Key of Scripture.</item>
+                  <item>249 <hi>Jo. Speidel</hi>'s Compendium of Geometry.</item>
+                  <item>250 Doctor <hi>Boys</hi> on the proper Pſalms in the Liturgy.</item>
+                  <pb n="12" facs="tcp:180514:8"/>
+                  <item>251 <hi>Brerewood</hi>'s Inquiries.</item>
+                  <item>252 Epiſcopacy of Divine Inſtitution, by Doctor <hi>Jeremiah Taylor.</hi>
+                  </item>
+                  <item>253 <hi>Nettle</hi>'s Anſwer to <hi>Seldon</hi>'s Hiſtory of Tithes.</item>
+                  <item>254 <hi>Rogers</hi> on the 39 Articles.</item>
+                  <item>255 <hi>Cartwright</hi> on the <hi>Coloſſians.</hi>
+                  </item>
+                  <item>256 <hi>Seldon</hi>'s Treatiſe of Tithes.</item>
+                  <item>257 Gods Soveraignty on Earth, and the Kings Great Charter for the Adminiſtration thereof juſtified by Scripture, by <hi>Robert Weldon.</hi>
+                  </item>
+                  <item>258 The Engliſh Mans Treaſure: being a Treatiſe of Phyſick and Sur<g ref="char:EOLhyphen"/>gery for the uſe of the Poor.</item>
+                  <item>259 <hi>Hudſon</hi>'s Divine Right of Government, Natural and Politick.</item>
+                  <item>260 Lodovicus nonnius de recibaria.</item>
+                  <item>261 Mercurialis Tractatus de Compoſitionum Medicamentorum, &amp; de Morbis occulorum &amp; Aurium.</item>
+                  <item>262 Statuta Leges ac Juris Venetorum.</item>
+                  <item>263 Mercurialis de arte Gymnaſtica.</item>
+                  <item>264 Mercurialis variorum lectionum, Lib. Quat.</item>
+                  <item>265 Authores de Morbo Galica.</item>
+                  <item>266 Kergerus de Fermentatione.</item>
+                  <item>267 Platzoni Tractatus de vulneribus ſclopetorum.</item>
+                  <item>268 Valerus baldutius de putredine.</item>
+                  <item>269 Punormite de dictis &amp; factis Alphonſi regis Aragon, Lib. Quat.</item>
+                  <item>270 A Treatiſe of Civil Converſation, in <hi>French</hi> and <hi>Engliſh.</hi>
+                  </item>
+                  <item>271 Diſſertatio Saluſtiana de vetere Romarum Republica.</item>
+                  <item>272 Haly Abbatis Medica practica.</item>
+                  <item>273 Mathematica Quedam ſimul Compacta.</item>
+                  <item>274 Meditationes Doctiſſime in Theriacum, &amp; methriditicam Antidotum.</item>
+                  <item>275 Albertinus Bottonus de morbis mulieribus.</item>
+                  <item>276 Guaraganti Medica.</item>
+                  <item>277 Julii Caeſar Claudinus de Ingreſſu ad Infermos.</item>
+                  <item>278 <hi>Jo Haſlerius</hi> de Logeſtica Medica.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>PAMPHLETS.</head>
+               <list>
+                  <head>Number 1.</head>
+                  <item>GOod Engliſh, or the way for ſetling the Kingdom.</item>
+                  <item>Mr. St. <hi>John</hi>'s Declaration to the Parliament about Ship-Money.</item>
+                  <item>Garden of Eloquence. A Diſcourſe of Religion.</item>
+                  <item>The Supplication for Toleration to King <hi>James</hi> the Firſt.</item>
+                  <item>
+                     <hi>Oliver Cromwel</hi>'s Long Speech to the Parliament in 1654.</item>
+               </list>
+               <list>
+                  <pb n="13" facs="tcp:180514:8"/>
+                  <head>Number 2.</head>
+                  <item>Triplicity of Divinity, Philoſophy, and Poetry.</item>
+                  <item>Sir <hi>Thomas Fairfax</hi>'s Remonſtrance.</item>
+                  <item>Sir <hi>Ed. Deering</hi>'s Speech to the Houſe of Commons.</item>
+                  <item>King <hi>Charles</hi>'s Reaſons for going from <hi>Hampton</hi> Court.</item>
+                  <item>New England's Proſpect.</item>
+                  <item>Church of <hi>Rome</hi> no viſſible Church of Chriſt, or <hi>Babel</hi> no <hi>Bethel.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Number 3.</head>
+                  <item>A Viſion of <hi>Balaam</hi>'s Aſs. The Period of the <hi>Perſian</hi> Monarch.</item>
+                  <item>The Members Conſideration for Trial of King <hi>Charles</hi> the Firſt.</item>
+                  <item>A Paralel of New and Old <hi>Pelagiarminian</hi> Error.</item>
+                  <item>A Declaration of the Parliament of the Common-Wealth of <hi>England.</hi>
+                  </item>
+                  <item>
+                     <hi>Downham</hi>'s Chriſtian Sanctuary.</item>
+               </list>
+               <list>
+                  <head>Number 4.</head>
+                  <item>
+                     <hi>John Lilborne</hi>'s Aſſerting the Liberties of the People of <hi>England.</hi>
+                  </item>
+                  <item>Aſſembly of Divines Vindicat. of the Presbyterial Governm. and Miniſtry.</item>
+                  <item>An Ordinance with Inſtructions for taking the Covenant.</item>
+                  <item>A Remonſtrance of the Kirk of <hi>Scotland.</hi> The Army Anatomis'd.</item>
+                  <item>Sir <hi>Thomas Firfax</hi>'s Remonſtrance. The Kings Anſwer.</item>
+               </list>
+               <list>
+                  <head>Number 5.</head>
+                  <item>Exhortation of a <hi>Spaniſh</hi> Converted Monk.</item>
+                  <item>
+                     <hi>Egan</hi>'s Recantation, a <hi>Franciſcan</hi> Convert. Great Britain's Bleſſing.</item>
+                  <item>An Anſwer to the Parliaments Declaration.</item>
+                  <item>Indulgencies and Relicks of the ſeven Churches of <hi>Rome.</hi>
+                  </item>
+                  <item>A Word to <hi>Hugh Peters.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Number 6.</head>
+                  <item>Five Sermons of Doctor <hi>Preſton</hi> Preached before the King.</item>
+                  <item>Biſhop <hi>Uſher</hi>'s Sermon before the Parliament.</item>
+                  <item>
+                     <hi>Pierſon</hi>'s Sermon of Reformation.</item>
+                  <item>God manifeſted in the Fleſh, in a Sermon.</item>
+                  <item>A Faſt Sermon before King <hi>James</hi> the 1 <hi>ſt.</hi> by the Biſhop of St. <hi>Davids.</hi>
+                  </item>
+                  <item>A Spiritual Poſie for <hi>Sion.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Number 7.</head>
+                  <item>A Narration of the Miſteries of State carried on by the <hi>Spaniſh</hi> Faction in the time of <hi>Oliver Cromwel.</hi>
+                  </item>
+                  <item>Prerogative of the Parliaments of <hi>England,</hi> by Sir <hi>Walter Rauleigh.</hi>
+                  </item>
+                  <item>A Diſcourſe of Bodies Natural and Politick.</item>
+                  <pb n="14" facs="tcp:180514:9"/>
+                  <item>Churches, and Miniſters of <hi>England</hi> true Churches and Miniſtry, by Doctor <hi>Fulwood.</hi> Myſtery of Iniquity.</item>
+                  <item>Defence of the Miniſters deprived for not Subſcribing and Conforming.</item>
+               </list>
+               <list>
+                  <head>Number 8.</head>
+                  <item>Alture Chriſtianum, or the Dead Vicar's Plea, by <hi>John Pocklington.</hi>
+                  </item>
+                  <item>Doctrine of the <hi>Antinomians</hi> Confuted, in Anſwer to Dr. <hi>Criſpe.</hi>
+                  </item>
+                  <item>Dr. <hi>Featly</hi>'s Apology. Antinomian Principles examined.</item>
+                  <item>Trial of Liuetenant Colonel <hi>John Lilborne.</hi>
+                  </item>
+                  <item>
+                     <hi>Clark</hi>'s Trial of the Eccleſiaſtical Government of the Realm of <hi>England.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Number 9.</head>
+                  <item>A Pair of Sermons to a Pair of Princes, <hi>Henry</hi> and <hi>Charles.</hi>
+                  </item>
+                  <item>Two Sermons Preached at <hi>White-Hall,</hi> by Doctor <hi>King.</hi>
+                  </item>
+                  <item>A Sermon at St. <hi>Pauls,</hi> by Doctor <hi>King.</hi>
+                  </item>
+                  <item>A Sermon Preached at <hi>Pauls</hi> Croſs, by Doctor <hi>King</hi>'s Son.</item>
+                  <item>A Sermon before the King, by Dr. <hi>Laud</hi> Dean of <hi>Glouceſter.</hi>
+                  </item>
+                  <item>A Sermon at <hi>Weſtminſter</hi> before the Parliament, by the Bp. of St. <hi>Davids.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Number 10.</head>
+                  <item>Diſcourſe about Kneeling at the Sacrament, againſt Dr. <hi>Spark,</hi> Dr. <hi>Cowell, Tho. Hutton,</hi> and <hi>Tho. Rogers.</hi> Dr. <hi>Boyſe</hi> on the Feſtivals.</item>
+                  <item>
+                     <hi>Solomon</hi>'s Recantation and Repentance. The Meſſiah already come.</item>
+                  <item>Dr. <hi>White</hi>'s two Sermons on the Kings Anniverſary, <hi>Anno</hi> 1625.</item>
+                  <item>Godly Miniſters Defence againſt Doctor <hi>Bridges.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Number 11.</head>
+                  <item>
+                     <hi>Heylin</hi>'s Anſwer to the Bp. of <hi>Lincoln</hi>'s Holy Table.</item>
+                  <item>
+                     <hi>Fletcher</hi>'s Expoſition on the 1 <hi>ſt</hi> Pſalm.</item>
+                  <item>Perpetual Viſſibility of the True Church.</item>
+               </list>
+               <list>
+                  <head>Number 12.</head>
+                  <item>Papiſts Supplication for Tolerating their Religion in <hi>England.</hi>
+                  </item>
+                  <item>The Hurt of Sedition, how grievous to a Common-Wealth.</item>
+                  <item>A Reply to Dr. <hi>Sanderſon</hi>'s Cenſure of a Book of Confuſions of Government.</item>
+                  <item>A Vindication of certain Loud Miniſters refuſing to wear the Apparrel pre<g ref="char:EOLhyphen"/>ſcribed by the Laws of <hi>England.</hi>
+                  </item>
+                  <item>A Reply to <hi>Morton</hi>'s Defence of the Surplice, Croſs, and Kneeling.</item>
+                  <item>
+                     <hi>Greenwood</hi>'s Reply to <hi>Gifford</hi>'s Defence of Read Prayers and Liturgies.</item>
+                  <item>An Anſwer to the Aſſembly to Divines Apologetical Narration.</item>
+                  <item>
+                     <hi>Price</hi>'s Anſwer to <hi>Leach,</hi> a revolted Miniſter to the Church of <hi>Rome.</hi>
+                  </item>
+               </list>
+               <list>
+                  <pb n="15" facs="tcp:180514:9"/>
+                  <head>Number 13.</head>
+                  <item>A large Diſcovery of the falſe Church.</item>
+                  <item>A Diſcourſe againſt Ceremonies, <hi>&amp;c.</hi>
+                  </item>
+                  <item>A Defence of <hi>Engliſh</hi> Government in <hi>Ireland.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Number 14.</head>
+                  <item>
+                     <hi>Babel</hi> no <hi>Bethel,</hi> or the Church of <hi>Rome</hi> no True Church.</item>
+                  <item>The Jeſuits Antipas.</item>
+                  <item>An Ordnance of the Lords and Commons for putting up the Directory for Publick Worſhip in all Pariſh Churches.</item>
+                  <item>The Reaſons of the Wars that hapned in <hi>England.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Number 15.</head>
+                  <item>The Puniſhment of Perjury, and the Impiety of Papal Diſpenſations</item>
+                  <item>Bp. <hi>Laud</hi>'s Speech in the Star Chamber, againſt <hi>Baſtwick, Burton,</hi> and <hi>Prinn.</hi>
+                  </item>
+                  <item>A Diſcourſe of things Indifferent in Religious Worſhip.</item>
+                  <item>
+                     <hi>Quatermaine</hi>'s Conqueſt over <hi>Canterbury</hi>'s Court.</item>
+                  <item>The Removal of the Imputations laid on ſome <hi>Devon</hi> Miniſters for not Subſcribing. 24 Caſes in things Indifferent, Conſidered and Reſolved.</item>
+               </list>
+               <list>
+                  <head>Number 16.</head>
+                  <item>
+                     <hi>Haeris</hi>'s Aſſize Sermons.</item>
+                  <item>Loſt Sinner fought and ſaved by Chriſt, in a Sermon.</item>
+                  <item>
+                     <hi>Goree</hi>'s Sermon of Faith and Good Works.</item>
+                  <item>
+                     <hi>White</hi>'s Diſcovery of Error, in two Sermons.</item>
+                  <item>Dr. <hi>Burges</hi>'s Sermon before the Parliament.</item>
+                  <item>Government of the Church Inſtituted by Chriſt.</item>
+               </list>
+               <list>
+                  <head>Number 17.</head>
+                  <item>
+                     <hi>Rawſon</hi> of Election and Reprobation. Dr. <hi>Boy</hi>'s Expoſition of the Liturgy.</item>
+                  <item>
+                     <hi>Pemble</hi>'s Comment. on the <hi>Eccleſiaſtes.</hi> Chriſt above all exalted.</item>
+                  <item>The Uniting of Souls for ever to God.</item>
+               </list>
+               <list>
+                  <head>Number 18.</head>
+                  <item>
+                     <hi>Heylin</hi>'s Anſwer to <hi>Burton.</hi>
+                  </item>
+                  <item>Dr. <hi>Fenten</hi> againſt the Dependance upon one Head.</item>
+                  <item>Orthography, or the Art of Speaking the <hi>Engliſh</hi> Tongue.</item>
+                  <item>
+                     <hi>Jenkins</hi>'s Blind Guide Guided.</item>
+                  <item>
+                     <hi>Berry</hi>'s Miſtery of Iniquity, in a Sermon at St. <hi>Peters, Exon.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Number 19.</head>
+                  <item>Separation no Schiſm, Nonconformiſts no Schiſmaticks.</item>
+                  <item>The Pulpit guarded with Twenty Arguments.</item>
+                  <item>Debate concerning the <hi>Engliſh</hi> Liturgy, as eſtabliſhed in, and as aboliſhed out of the Worſhip of God.</item>
+                  <item>The Proceedings of the Aſſembly at <hi>Perth.</hi>
+                  </item>
+                  <item>Liberty of Conſcience vindicated.</item>
+                  <item>Lord Chancellor's Speech touching the <hi>Poſt Nati.</hi>
+                  </item>
+               </list>
+               <list>
+                  <pb n="16" facs="tcp:180514:10"/>
+                  <head>Number 20.</head>
+                  <item>Bounds and Bonds of Publick Obedience. Covenanters Catechiſm.</item>
+                  <item>Chriſt Exalted, in a Sermon by Mr. <hi>Knollus.</hi>
+                  </item>
+                  <item>
+                     <hi>Steven Martial</hi>'s Sermon before the Houſe of Commons.</item>
+                  <item>An Anſwer to the Clergy in their Collars.</item>
+                  <item>The Advice of the Aſſembly of Divines at <hi>London.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Number 21.</head>
+                  <item>Reaſons for the Neceſſity of Reformation in <hi>England.</hi>
+                  </item>
+                  <item>Honeſty the beſt Policy.</item>
+                  <item>Caſe of Conſcience ſtated about Submiſſion to Government.</item>
+                  <item>Hiſtory of the Gun-powder Treaſon. True ſtate of the Primitive Church.</item>
+                  <item>Diſcourſe of the neceſſity of maintaining the Eſtabliſhed Religion.</item>
+               </list>
+               <list>
+                  <head>Number 22.</head>
+                  <item>An Account of a Bloody Fight at <hi>Breda.</hi>
+                  </item>
+                  <item>Religion and Allegiance, in two Sermons before King <hi>Charles</hi> the Firſt.</item>
+                  <item>Another Sermon Preached before him by the Bp. of <hi>Ely,</hi> on the <hi>5th.</hi> of <hi>Numb.</hi>
+                  </item>
+                  <item>Another Sermon Preached before him at <hi>Eaſter</hi> following.</item>
+                  <item>The Spiritual Sonſhip, in a Sermon by Mr. <hi>Samuel Heiron.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Number 23.</head>
+                  <item>A pair of Spectacles for the City.</item>
+                  <item>The Mirror of Honour, Inſtructing all Officers to fear God.</item>
+                  <item>A Religious Retreat ſounded to a Religious Army.</item>
+                  <item>Hiſtorical Obſervations on the prevailing Party in both Houſes.</item>
+                  <item>
+                     <hi>Cromwel</hi>'s Speech to the Parliament. Monarchy proved and aſſerted.</item>
+                  <item>An Anſwer to the Papiſts Apology.</item>
+               </list>
+               <list>
+                  <head>Number 24.</head>
+                  <item>Lords and Commons Propoſals to the King for Peace.</item>
+                  <item>A Letter from a Biſhop in the Tower to a Friend.</item>
+                  <item>His Majeſty's Meſſage to both Houſes of Parliament.</item>
+                  <item>His Majeſty's Conceſſions to the Bill of Abolition of the Biſhops.</item>
+                  <item>
+                     <hi>Vox Populi</hi> againſt the Clergy.</item>
+                  <item>Epiſcopy Apoſtolical, and conſequently of Divine Inſtitution.</item>
+                  <item>A Remonſtrance of the ſtate of the Kingdom.</item>
+                  <item>Vindication of the Secluded Members.</item>
+               </list>
+               <list>
+                  <head>Number 25.</head>
+                  <item>Anatomy of the Service-Book.</item>
+                  <item>Votes and Orders of the Parliament, in Relation to <hi>Hull.</hi>
+                  </item>
+                  <item>Juſtice on the Army's Remonſtrance.</item>
+                  <item>Animadverſions on the Army's Remonſtrance.</item>
+                  <item>The Opinion of ſundry Divines touching the Engagement.</item>
+                  <item>Complaint of the Kingdom againſt Ill Members.</item>
+                  <item>An Antidote againſt Sabbatarian Errors.</item>
+               </list>
+               <list>
+                  <pb n="17" facs="tcp:180514:10"/>
+                  <head>Number 26.</head>
+                  <item>Neceſſity of Conformity in caſe of Deprivation.</item>
+                  <item>Lawleſs Kneeling Schiſmatical Puritan. Col. <hi>Lilborn</hi>'s Grand Plea.</item>
+                  <item>Great Joy to the <hi>Iſrael</hi> of God.</item>
+                  <item>Humble Remonſtrance to the Parliament, by a Son of the Church. <hi>An.</hi> 1640.</item>
+               </list>
+               <list>
+                  <head>Number 27.</head>
+                  <item>The Hunting of the Fox, or the Sectaries diſſected.</item>
+                  <item>No Warrant for Subjects taking up Arms.</item>
+                  <item>Golden Bell and a Pomegranate, in a Viſitation-Sermon.</item>
+                  <item>Means and Motives for Peace.</item>
+                  <item>Two Sermons on the 3<hi>d.</hi> of the <hi>Lamentations.</hi>
+                  </item>
+                  <item>The Chriſtian's Sanctuary in the midſt of all Dangers.</item>
+               </list>
+               <list>
+                  <head>Number 28.</head>
+                  <item>Diſcourſe concerning Puritans.</item>
+                  <item>Propoſals concerning Diſcipline and Ceremonies.</item>
+                  <item>God's Doing, and Man's Duty. A Model of Church-Government.</item>
+                  <item>Reſolution of the Miniſtry aſſociated at <hi>Dublin.</hi>
+                  </item>
+                  <item>Craft and Cruelty of the Churches Adverſaries.</item>
+                  <item>The Reformation of the Church of the New Teſtament.</item>
+               </list>
+               <list>
+                  <head>Number 29.</head>
+                  <item>Chriſt the Chriſtian's Choice.</item>
+                  <item>The Moderate Chriſtian, in a Sermon at the Viſitation in <hi>Exon</hi> before Bp. <hi>Hall,</hi> by <hi>John Bury.</hi>
+                  </item>
+                  <item>Death's Advantage, in a Sermon Preached at the Funeral of Coll. <hi>William, Gould,</hi> High Sheriff of <hi>Devon.</hi> Printed by Order of Parliament.</item>
+                  <item>
+                     <hi>Elijah</hi>'s Fiery Chariot, being Mr. <hi>Sherwell</hi> of <hi>Plymouth</hi>'s Funeral Sermon.</item>
+                  <item>Death's Sermon to the Living, another Funeral Sermon.</item>
+                  <item>The Palſgrave's Opinion concerning Faith and Ceremonies.</item>
+               </list>
+               <list>
+                  <head>Number 30.</head>
+                  <item>The Siſters Sieve broken. Expoſition on the 130 <hi>Pſalm.</hi>
+                  </item>
+                  <item>
+                     <hi>Hugh Peters</hi>'s Word to the Army, and two Words to the Kingdom.</item>
+                  <item>The Three Queſtions anſwered. The Drunkard's Cup.</item>
+               </list>
+               <list>
+                  <head>Number 31.</head>
+                  <item>Teſtimony to the Truth of Jeſus, and to the Solemn League and Covenant.</item>
+                  <item>A Vindication of Presbyterial Ordination.</item>
+                  <item>The Progreſs of the Goſpel, or the Strength in Weakneſs.</item>
+                  <item>Impiety of Impurity. No Proteſtant Plot.</item>
+                  <item>An Anſwer to <hi>Tho. Goodwin</hi>'s Might and Right well met.</item>
+                  <item>A Catalogue of Damages done by the <hi>Dutch</hi> to the <hi>Engliſh.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Number 32.</head>
+                  <item>Falſificationum Romanorum &amp; Catholicarum Reſtitutionum.</item>
+                  <item>The Grand Conſpiracy of <hi>Rome</hi> for Extirpation of the Proteſtant Religion.</item>
+                  <pb n="18" facs="tcp:180514:11"/>
+                  <item>Summary Reaſons againſt the Engagement.</item>
+                  <item>Parliament vindicated in detecting the Enemies of the Common-wealth.</item>
+                  <item>Peace-maker, or <hi>Great Britain</hi>'s Bleſſing framed.</item>
+                  <item>Obſervations on King <hi>Charles</hi> the Firſt's Anſwers and Expreſſes.</item>
+               </list>
+               <list>
+                  <head>Number 33.</head>
+                  <item>Fair Warning to take heed of <hi>Scotch</hi> Diſcipline.</item>
+                  <item>A Wiſe and Moderate Diſcourſe of Church Affairs.</item>
+                  <item>Orders for the Miniſtry. A Project for Peace.</item>
+                  <item>A Vindication of the Impriſoned Members.</item>
+                  <item>
+                     <hi>Boanerges,</hi> the Supplication of the <hi>Scots</hi> Miniſters to the Parliament.</item>
+               </list>
+               <list>
+                  <head>Number 34.</head>
+                  <item>
+                     <hi>Cawdry</hi> againſt Baptizing Children of Scandalous Parents.</item>
+                  <item>A Sermon Preached at <hi>Weſtminſter</hi> on the publick entring into the Covenant.</item>
+                  <item>A Sermon at <hi>Paul</hi>'s Croſs on All-Saints Day.</item>
+                  <item>The Days of <hi>Purim</hi> compared to the Powder-Treaſon, ought as well to be kept in Memory. The ſick Souls Salve.</item>
+                  <item>An Anſwer to certain Catholick Papers.</item>
+               </list>
+               <list>
+                  <head>Number 35.</head>
+                  <item>Arraignment of <hi>Geo. Spratt</hi> at <hi>Edinbourgh</hi> for Treaſon.</item>
+                  <item>An Expoſition on the <hi>15th.</hi> and <hi>16th.</hi> of the <hi>Revelations,</hi> touching the 7 Vi<g ref="char:EOLhyphen"/>als, by <hi>Henry Burton.</hi> The Aggravation of Sin.</item>
+                  <item>Apoſtolical Baptiſm, or a Re-joynder to Mr. <hi>Blake.</hi>
+                  </item>
+                  <item>A pack of Old Puritans refuſing the Engagement.</item>
+                  <item>Propoſitions <hi>in foro Conſcientia,</hi> propounded by ſome Gentlemen to ſeven Bi<g ref="char:EOLhyphen"/>ſhops, deſiring their Anſwer.</item>
+               </list>
+               <list>
+                  <head>Number 36.</head>
+                  <item>
+                     <hi>Vox Vera,</hi> or Obſervations from <hi>Amſterdam.</hi>
+                  </item>
+                  <item>A Word to Dr. <hi>Womock</hi> concerning Liturgies.</item>
+                  <item>A way to Cure the Sin of Swearing.</item>
+                  <item>Execrable Fancies held by the Anabaptiſts.</item>
+                  <item>An Anſwer to Truth's Triumph, or Triumph ſtained.</item>
+               </list>
+               <list>
+                  <head>Number 37.</head>
+                  <item>King <hi>James</hi>'s Directions to Young Students.</item>
+                  <item>An Account to the Parliament by the Miniſters ſent to <hi>Oxford.</hi>
+                  </item>
+                  <item>An Epitomy of the Book written againſt the Puritans.</item>
+                  <item>News from <hi>Turky. Cartwright</hi>'s Anſwer to Dr. <hi>Whitgift.</hi>
+                  </item>
+                  <item>The Royal Exchange, in Witty Aphoriſms.</item>
+               </list>
+               <list>
+                  <head>Number 38.</head>
+                  <item>Vindication of the Presbyterial Government and Miniſtry.</item>
+                  <item>Mr. <hi>Matthew Pool</hi>'s <hi>Quo Warranto,</hi> being againſt unordained Preachers.</item>
+                  <item>The Angel of the Church of <hi>Epheſus</hi> no Biſhop of <hi>Epheſus.</hi>
+                  </item>
+                  <item>A Plea for Non-Subſcribers.</item>
+                  <pb n="19" facs="tcp:180514:11"/>
+                  <item>Nuptial Poems on the Marriage of King <hi>James</hi>'s Eldeſt Daughter, the Prin<g ref="char:EOLhyphen"/>ceſs <hi>Elizabeth.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Number 39.</head>
+                  <item>
+                     <hi>Blake</hi>'s Anſwer to Mr. <hi>Tombes</hi> about Infant Baptiſm.</item>
+                  <item>Vindication of Infant Baptiſm.</item>
+                  <item>
+                     <hi>Marſhal</hi>'s Vindication of Infant Baptiſm.</item>
+                  <item>
+                     <hi>Coleman-ſtreet</hi> Conclave viſited. <hi>Lyford</hi>'s Apology for Infant Baptiſm.</item>
+                  <item>
+                     <hi>Gerees</hi> Vindication of Infant Baptiſm.</item>
+               </list>
+               <list>
+                  <head>Number 40.</head>
+                  <item>Vindication of Presbyterial Government.</item>
+                  <item>Anſwers to ſome Brethren in <hi>England</hi> to thoſe in <hi>Scotland</hi> touching the Covenant.</item>
+                  <item>
+                     <hi>Sutliff</hi>'s Vindication of Queen <hi>Elizabeth</hi>'s Government.</item>
+                  <item>Several Nuptial and Funeral Sermons.</item>
+               </list>
+               <list>
+                  <head>Number 41.</head>
+                  <item>
+                     <hi>Baxter</hi>'s Chriſtian Concord. <hi>Burton</hi>'s Appeal to the <hi>Engliſh</hi> Nobility.</item>
+                  <item>A Teſtimony to the Solemn League and Covenant.</item>
+                  <item>
+                     <hi>Scots</hi> Commiſſioners Anſwers to both Houſes of Parliament.</item>
+                  <item>Dr. <hi>Ferne</hi>'s Reſolving the Conſcience in taking up Arms.</item>
+                  <item>An Anſwer to the Vindicator of <hi>Smectemnius.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Books in</hi> Octavo.</head>
+               <list>
+                  <item>1 VOeteris Teſtamenti, G. and L. 4 V.</item>
+                  <item>2 <hi>Salmon</hi>'s Poligraphick, or the Art of Drawing, Engraving and Limning.</item>
+                  <item>3 <hi>Middleton</hi>'s Practical Aſtrology.</item>
+                  <item>4 <hi>Rome</hi>'s Deſign againſt Proteſtants.</item>
+                  <item>5 <hi>Howel</hi>'s Art of Surveying.</item>
+                  <item>6 <hi>Cauſabone</hi>'s Treatiſe of Enthuſiaſm.</item>
+                  <item>7 Dr. <hi>Spark</hi>'s Primitive Devotion of Feaſts and Faſts.</item>
+                  <item>8 <hi>Nic. Lockier</hi>'s Bud of the Spring, <hi>viz.</hi> Chriſt's Reſurrection.</item>
+                  <item>9 Expoſition on St. <hi>James</hi> and St. <hi>Jude.</hi> by Mr. <hi>Turnball,</hi> in 1 Vol.</item>
+                  <item>10 9 Sermons before K. <hi>James</hi> the 1<hi>ſt.</hi> by Dr. <hi>Maxey.</hi>
+                  </item>
+                  <item>11 <hi>Ameſius</hi> on the Pſalms, Lat.</item>
+                  <item>12 Alriati Emblemata, cum minos Commentariis.</item>
+                  <item>13 Bp. <hi>Ward</hi>'s ſeveral Sermons.</item>
+                  <item>14 Dr. <hi>Pierce</hi>'s Sinner Impleaded.</item>
+                  <item>15 Dr. <hi>Grew</hi>'s Anatomy of Vegitables.</item>
+                  <item>16 A Survey of a Diſcourſe concern<g ref="char:EOLhyphen"/>ing Eccleſiaſtical Polity.</item>
+                  <item>17 <hi>Hutchiſon</hi> on the ſmall Prophets.</item>
+                  <item>18 <hi>Cheywell</hi> on the Trinity.</item>
+                  <item>19 Mr. <hi>Baxter</hi>'s Reformed Paſtor.</item>
+                  <item>20 —Unreaſonableneſs of Infidelity.</item>
+                  <item>21 —Cure of Church Diviſions.</item>
+                  <item>22 <hi>Corbet</hi>'s Intereſt of <hi>England,</hi> in re<g ref="char:EOLhyphen"/>ſpect of Religion.</item>
+                  <item>23 <hi>Chamberlaine</hi>'s Poems.</item>
+                  <item>24 Continuation of Eccleſiaſt. Polity.</item>
+                  <item>25 Herodiani de Romanorum Impe<g ref="char:EOLhyphen"/>ratorum vita, Gr. and Lat.</item>
+                  <item>26 <hi>Outred</hi>'s Clavis Mathematicae.</item>
+                  <item>27 Gliſſoni Anatomia Hepatis.</item>
+                  <pb n="20" facs="tcp:180514:12"/>
+                  <item>28 <hi>Schenckii</hi> obſervationum Medicar.</item>
+                  <item>29 Phyſica &amp; ſphaerica doctrina.</item>
+                  <item>30 <hi>Hartmani</hi> Practica Chymica.</item>
+                  <item>31 <hi>Marci Antonii</hi> Zimare Philoſoph. Antium magico Medicum.</item>
+                  <item>32 Lotichii de caſei nequitia.</item>
+                  <item>33 Oſſervazioni Nat. Da. D. paolo Boc.</item>
+                  <item>34 Dodonaei Medicinalium obſervat.</item>
+                  <item>35 Di. Gio Batiſta Lavera, efalſa A<g ref="char:EOLhyphen"/>ſtrologia &amp; Chiromanzia.</item>
+                  <item>36 J. <hi>Cratonis</hi> Conſillorum, &amp; Ep. Med.</item>
+                  <item>37 Dr. <hi>Willis</hi> de Fermentatione, &amp; de Febribus.</item>
+                  <item>38—De Cerebri &amp; de morbis Con<g ref="char:EOLhyphen"/>vulſivis &amp; de ſcorbuto.</item>
+                  <item>39—Le Cerebri Anatome.</item>
+                  <item>40 Dr. <hi>Needham</hi> de formato foeta.</item>
+                  <item>41 Tractatus de reſpiratione, a <hi>Johan Swamardami.</hi>
+                  </item>
+                  <item>42 Foreſti Phyſic. obſervat. in 8 Vol.</item>
+                  <item>43 Directorum Medico practicum.</item>
+                  <item>44 Calvini Inſtitutiones.</item>
+                  <item>45 Diſcuſſionis decreti concillii Late ranenſis.</item>
+                  <item>46 <hi>Euripides,</hi> Gr. and Lat.</item>
+                  <item>47 Examen Concilli Tridenti.</item>
+                  <item>48 Dr. <hi>Wilkin</hi>'s Gift of Prayer and Preaching.</item>
+                  <item>49 Mr. <hi>Baxter</hi> of the Sabbath.</item>
+                  <item>50—Reformed Paſtor.</item>
+                  <item>51—Of Chriſtianity without Popery.</item>
+                  <item>52 Melius Inquirendem.</item>
+                  <item>53 <hi>Young</hi>'s Chriſtian Library.</item>
+                  <item>54 Mr. <hi>Allen</hi>'s Vindication of Godlineſs.</item>
+                  <item>55 Ruine and Repair of Kingdoms.</item>
+                  <item>56 Mr. <hi>Allen</hi>'s Heaven opened, being his Treatiſe on the Covenant.</item>
+                  <item>57 Brightmani in Apocalipſin.</item>
+                  <item>58 <hi>Whiter</hi>'s Plea for the publick Faith.</item>
+                  <item>59 Mr. <hi>Sam. Stodden</hi>'s Voice of the Rod.</item>
+                  <item>60 Mr. <hi>Pool</hi>'s Nullity of the <hi>Rom.</hi> Faith.</item>
+                  <item>61 <hi>Fromundus</hi> of Meteors.</item>
+                  <item>62 Mr. <hi>Roberts</hi> on the Sacrament.</item>
+                  <item>63 Bp. <hi>Parry</hi> Treating of the Cauſes of the Proſperity of the Wicked, and the Afflictions of the Juſt.</item>
+                  <item>64 <hi>Alſteed</hi>'s Cronology.</item>
+                  <item>65 Life and Death of Mr. <hi>Jo. Allen.</hi>
+                  </item>
+                  <item>66 Mr. <hi>Watſon</hi>'s Doctr. of Repentance.</item>
+                  <item>67 Rules and Orders for Scholars on Probation days.</item>
+                  <item>68 Pſalmi Davidis proverbia Eccleſia<g ref="char:EOLhyphen"/>ſtes, &amp; Canticum Heb. cum In<g ref="char:EOLhyphen"/>terliniari verſine.</item>
+                  <item>69 Epitome Theſaurus ling. ſanctae.</item>
+                  <item>70 <hi>Mayer</hi>'s Heb. Grammar.</item>
+                  <item>71 Voſſii Inſtitutiones Linguae Grecae.</item>
+                  <item>72 Prima Elementa Linguae Syricae, Jeſu Chriſto vernaculae, cum Ve<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ſione interliniari.</item>
+                  <item>73 <hi>Robertſon</hi>'s Key to the Hebr. Bible.</item>
+                  <item>74 Buxtorfii Lexicon, Hebraicum &amp; Chaldiacum.</item>
+                  <item>75—Theſaur. Lingue ſancte Hebraee.</item>
+                  <item>76—Epit Grammaticae Hebraeae.</item>
+                  <item>77 Mayr Inſtitutiones Linguae He<g ref="char:EOLhyphen"/>braicae.</item>
+                  <item>78 Martinii Grammatica Hebraea.</item>
+                  <item>79 <hi>Buxtorff</hi>'s Hebr. Grammar.</item>
+                  <item>80 Schindleri Inſtitutionum Hebrai<g ref="char:EOLhyphen"/>carum.</item>
+                  <item>81 Erpenii Rudimenta Arabicae.</item>
+                  <item>82 Buxtorfiana Grammatica Ebraea.</item>
+                  <item>83 <hi>Druſin</hi>'s Queſtionum Ebraica<g ref="char:EOLhyphen"/>rum. <hi>Idem</hi> Hiſt. Ruth.</item>
+                  <item>84 Clementis Druſii Animadverſio<g ref="char:EOLhyphen"/>rum.</item>
+                  <item>85 <hi>Idem</hi> de Elohim.</item>
+                  <item>86 Schickhardi Horologium Hebrae<g ref="char:EOLhyphen"/>um.</item>
+                  <item>87 <hi>Blebellin</hi>'s Hebr. Grammar.</item>
+                  <item>88 Pſalterium prophete Davidis Heb. Gr. and Lat.</item>
+                  <pb n="21" facs="tcp:180514:12"/>
+                  <item>89 Introductio ad lectionem Ling. Orientalium.</item>
+                  <item>90 Mr. <hi>Byfield</hi>'s Marrow of Modern Divinity.</item>
+                  <item>91 Armour againſt Temptation.</item>
+                  <item>92 <hi>Cambden</hi>'s Britannica with the Mapps, Latin.</item>
+                  <item>93 Reherſal Tranſproſed.</item>
+                  <item>94 The Life of the Learned <hi>Hooker.</hi>
+                  </item>
+                  <item>95 Sculteti ſiletii Idea.</item>
+                  <item>96 Paraphraſis in Jobum poetica.</item>
+                  <item>97 Mr. <hi>Gove</hi>'s Saints Honey-Comb.</item>
+                  <item>98 Purbackii Theorica planetarum.</item>
+                  <item>99 <hi>Optick</hi>'s Glaſs of Tumors.</item>
+                  <item>100 Palmiſtry and Phyſiognomy.</item>
+                  <item>101 <hi>Sydenham</hi> of Infant Baptiſm and ſinging Pſalms.</item>
+                  <item>102 <hi>Helmont</hi> diſguiſed.</item>
+                  <item>103 Mr. <hi>Baxter</hi>'s 32 Directions for a ſettled Conſcience.</item>
+                  <item>104 <hi>Plat</hi>'s Garden of <hi>Eden,</hi> or a De<g ref="char:EOLhyphen"/>ſcription of <hi>Engliſh</hi> Plants.</item>
+                  <item>105 A Treatiſe of the Chriſtian Re<g ref="char:EOLhyphen"/>ligion.</item>
+                  <item>106 Life and Death of Mr. <hi>Samuel Crooke.</hi>
+                  </item>
+                  <item>107 Mr. <hi>Brenſly</hi>'s true Watch, or Rule of Life.</item>
+                  <item>108 Bp. <hi>Davinant</hi>'s Demorte Chriſti.</item>
+                  <item>109 <hi>Cawdry</hi> againſt Independency.</item>
+                  <item>110 Sir <hi>Walter Rauleigh</hi>'s Life and Death of <hi>Mahomet.</hi>
+                  </item>
+                  <item>111 Dr. <hi>Sherlock</hi> againſt the Quakers.</item>
+                  <item>112 <hi>Maſſanello</hi> of the Fiſherman of <hi>Naples.</hi>
+                  </item>
+                  <item>113 Sulpitii ſeveri Hiſtoria ſacra.</item>
+                  <item>114 Preachers Patent cleared.</item>
+                  <item>115 Wallography, or the Welſh-man diſplay'd.</item>
+                  <item>116 Hadriani Junii Emblemata.</item>
+                  <item>117 <hi>Tho. Goodwin</hi>'s Chriſt ſet forth.</item>
+                  <item>118 <hi>Lockier</hi>'s Chriſts Communion.</item>
+                  <item>119 <hi>Ellis</hi>'s England's brave Gentleman Characteriſed.</item>
+                  <item>120 <hi>Ford</hi>'s Scripture Self-Evidence.</item>
+                  <item>121 Good Work for a good Magi<g ref="char:EOLhyphen"/>ſtrate.</item>
+                  <item>122 <hi>Griffith</hi>'s God and the King.</item>
+                  <item>123 <hi>Tackney</hi>'s good day well improv'd</item>
+                  <item>124 Seaſonable and ſerious Counſel from the Sanctuary.</item>
+                  <item>125 A Phoenix, or the ſolemn League and Covenant.</item>
+                  <item>126 A Treatiſe of Sincerity and Hy<g ref="char:EOLhyphen"/>pocriſie.</item>
+                  <item>127 <hi>Gawdry</hi> againſt Independency.</item>
+                  <item>128 Hell Torments aſſerted, by Mr. <hi>Nich. Cheyney</hi>
+                  </item>
+                  <item>129 Balm to heal Religious Wounds.</item>
+                  <item>130 Mr. <hi>Wood</hi>'s Treatiſe of the Know<g ref="char:EOLhyphen"/>ledge of God.</item>
+                  <item>131 Aſſemby's Larger Catechiſm in <hi>Latin</hi>
+                  </item>
+                  <item>132 <hi>Gelebrand</hi>'s Inſtitution into Tri<g ref="char:EOLhyphen"/>gonomitry.</item>
+                  <item>133 Right of Dominion and Proper<g ref="char:EOLhyphen"/>ty of Liberty.</item>
+                  <item>134 Dr. <hi>Owen</hi> of the true Nature of Schiſm.</item>
+                  <item>135 A Glaſs for Favourites, or Hell Reformed.</item>
+                  <item>136 A Light from Chriſt, or a Rich Jewel of Chriſtian Divinity.</item>
+                  <item>137 Maggots on ſeveral Subjects, put forth by a Scholar.</item>
+                  <item>138 An Expoſition on the Church-Catechiſm.</item>
+                  <item>139 Fort Royal of the Holy Scrip<g ref="char:EOLhyphen"/>tures.</item>
+                  <item>140 Dr. <hi>Hammond</hi>'s Treatiſe of Schiſm.</item>
+                  <item>141 Equal ways of God rectifying the unequal ways of Man.</item>
+                  <item>142 A Warning to God's Watch-men, by Mr. <hi>Chetwind.</hi>
+                  </item>
+                  <pb n="22" facs="tcp:180514:13"/>
+                  <item>143 Sober Inſpection into the carri<g ref="char:EOLhyphen"/>age of the Long Parliament.</item>
+                  <item>144 <hi>Culpeper</hi>'s Midwifery.</item>
+                  <item>145 Bp. <hi>Andrews</hi>'s 19 Sermons on Prayer.</item>
+                  <item>146 A Pattern of Catechiſtical Do<g ref="char:EOLhyphen"/>ctrine.</item>
+                  <item>147 <hi>Goodwin</hi>'s Aggravation of Sin.</item>
+                  <item>148 Rehearſal Tranſproſed.</item>
+                  <item>149 <hi>Purnel</hi>'s Tydings for Sinners, and Joy for Saints.</item>
+                  <item>150 Grotius de Satisfactione Chriſti.</item>
+                  <item>151 <hi>Pool</hi>'s Dialogue betwixt a Prote<g ref="char:EOLhyphen"/>ſtant and Papiſt.</item>
+                  <item>152 Divine Poems and Meditations.</item>
+                  <item>153 <hi>March</hi>'s Friend to the Common<g ref="char:EOLhyphen"/>wealth.</item>
+                  <item>154 <hi>Cople</hi> of Temptations.</item>
+                  <item>155 Mr. <hi>Bolton</hi>'s Bounds of Chriſtian Freedom.</item>
+                  <item>156 <hi>Hugh Peters</hi>'s Life and Death.</item>
+                  <item>157 <hi>Venning</hi>'s Myſtery of the <hi>Revela<g ref="char:EOLhyphen"/>tions.</hi>
+                  </item>
+                  <item>158 Wiſdome Juſtified of her Chil<g ref="char:EOLhyphen"/>dren.</item>
+                  <item>159 Diſcovery of the wonderful Ver<g ref="char:EOLhyphen"/>tues of Tobacco.</item>
+                  <item>160 <hi>Leigh</hi>'s Obſervations of the 12 <hi>Caeſars.</hi>
+                  </item>
+                  <item>161 Fair Warnings to a careleſs World.</item>
+                  <item>162 <hi>Howel</hi>'s Directions to Foreign Travellers.</item>
+                  <item>163 Sir <hi>Humphrey Lind</hi>'s By-way.</item>
+                  <item>164 An Addreſs to the Young Gen<g ref="char:EOLhyphen"/>try of <hi>England.</hi>
+                  </item>
+                  <item>165 <hi>Virgil</hi>'s Eclogues in <hi>Engliſh.</hi>
+                  </item>
+                  <item>166 <hi>Lyford</hi> on the Sacrament.</item>
+                  <item>167 Anchor of Hope for God's trou<g ref="char:EOLhyphen"/>bled ones.</item>
+                  <item>168 Looking-Glaſs of Schiſm.</item>
+                  <item>169 Treatiſe of the Torments of Hell.</item>
+                  <item>170 Albertus Magnus de ſecretis Mu<g ref="char:EOLhyphen"/>lierum.</item>
+                  <item>171 Dr. <hi>Stamp</hi>'s Treatiſe of Spiritual Infatuation.</item>
+                  <item>172 A Treatiſe of Humane Reaſon.</item>
+                  <item>173 A Dialogue between a Papiſt and a Proteſtant, by Mr. <hi>Pool.</hi>
+                  </item>
+                  <item>174 Dr. <hi>Fuller</hi>'s good Thoughts in bad Times.</item>
+                  <item>175 Judge <hi>Jenkins</hi>'s Learned Works.</item>
+                  <item>176 <hi>Loyd</hi>'s Warning to a Careleſs World, or dead Mens living Words.</item>
+                  <item>177 <hi>Price,</hi> of the Fear of God.</item>
+                  <item>178 A Golden Chain taken out of K. <hi>David</hi>'s Pſalms.</item>
+                  <item>179 Problems of Beauty and all Hu<g ref="char:EOLhyphen"/>mane Affection.</item>
+                  <item>180 A Rich Treaſure at an eaſie rate.</item>
+                  <item>181 Temporal Loſs Spiritully impro<g ref="char:EOLhyphen"/>ved.</item>
+                  <item>182 Praiſe of Women.</item>
+                  <item>183 Apologia Eccleſia Anglicanae.</item>
+                  <item>184 <hi>Zach. Crofton</hi> of Altar-worſhip.</item>
+                  <item>185 Apologia Eccleſ. Anglicanae.</item>
+                  <item>186 Moral and Theological Eſſays.</item>
+                  <item>187 Canones &amp; Decreta Concilii Tridenti.</item>
+                  <item>188 Elenchus motuum neuperorum in Anglia.</item>
+                  <item>189 <hi>Rogers</hi>'s Enemy of Security.</item>
+               </list>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
